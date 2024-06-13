@@ -1,0 +1,4 @@
+﻿  ompsum.cpp
+H:\CUDA\Chapter01\ompsum\ompsum.cpp(31,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+H:\CUDA\Chapter01\ompsum\ompsum.cpp(36,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ompsum.vcxproj -> H:\CUDA\Chapter01\ompsum\Debug\ompsum.exe

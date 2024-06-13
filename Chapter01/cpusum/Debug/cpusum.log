@@ -1,0 +1,4 @@
+﻿  cpusum.cpp
+H:\CUDA\Chapter01\cpusum\cpusum.cpp(29,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+H:\CUDA\Chapter01\cpusum\cpusum.cpp(35,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  cpusum.vcxproj -> H:\CUDA\Chapter01\cpusum\Debug\cpusum.exe
