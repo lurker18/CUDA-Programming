@@ -1,0 +1,2 @@
+H:\CUDA\Chapter02\Grid3D\x64\Debug\Grid3D.exe
+H:\CUDA-Programming\Chapter02\Grid3D\x64\Debug\Grid3D.exe

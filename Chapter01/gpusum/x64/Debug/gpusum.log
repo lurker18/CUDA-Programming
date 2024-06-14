@@ -1,8 +1,3 @@
-﻿  Compiling CUDA source file gpusum.cu...
-  
-  H:\CUDA\Chapter01\gpusum>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64" -x cu   -IH:\CUDA\include -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.cu.obj "H:\CUDA\Chapter01\gpusum\gpusum.cu" 
-  gpusum.cu
-H:\CUDA\Chapter01\gpusum\gpusum.cu(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-     Creating library H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.lib and object H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.exp
+﻿     Creating library H:\CUDA-Programming\Chapter01\gpusum\x64\Debug\gpusum.lib and object H:\CUDA-Programming\Chapter01\gpusum\x64\Debug\gpusum.exp
 LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  gpusum.vcxproj -> H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.exe
+  gpusum.vcxproj -> H:\CUDA-Programming\Chapter01\gpusum\x64\Debug\gpusum.exe

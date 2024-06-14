@@ -1,1 +1,2 @@
 H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.exe
+H:\CUDA-Programming\Chapter01\gpusum\x64\Debug\gpusum.exe

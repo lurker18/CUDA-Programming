@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Chapter01",
-    "\\Chapter01\\cpusum"
+    ""
   ],
-  "SelectedNode": "\\Chapter01\\cpusum",
+  "SelectedNode": "\\gpusum.sln",
   "PreviewInSolutionExplorer": false
 }

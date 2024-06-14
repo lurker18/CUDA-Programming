@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>H:\CUDA\Chapter01\gpusum\x64\Debug\gpusum.exe</FullPath>
+      <FullPath>H:\CUDA-Programming\Chapter01\gpusum\x64\Debug\gpusum.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
